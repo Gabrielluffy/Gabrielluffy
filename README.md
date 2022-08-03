@@ -1,4 +1,5 @@
 ### Olá sou Gabriel Santos | Bem vindo ao meu Perfil 👋
+![](https://komarev.com/ghpvc/?username=Gabrielluffy)
 
 - 🎓 Formado em Jogos Digitais ...
 - 🎮 Game Developer 
