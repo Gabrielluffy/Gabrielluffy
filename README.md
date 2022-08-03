@@ -17,8 +17,5 @@
   <img align="center" alt="Unity" height="30" width="40" src="https://files.rubixdev.de/logos/unity.svg">
   <img align="right" alt="fall-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 </div>
-
- <div>
-![Snake animation](https://github.com/Gabrielluffy/Gabrielluffy/blob/main/.github/workflows/main.yml)
- </div>          
+        
           
