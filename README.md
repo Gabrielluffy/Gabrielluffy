@@ -19,6 +19,6 @@
 </div>
 
  <div>
-![Snake animation](https://github.com/gabrielluffy/gabrielluffy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Gabrielluffy/Gabrielluffy/blob/main/.github/workflows/main.yml)
  </div>          
           
